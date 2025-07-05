@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-01)
+## Unreleased (2025-07-05)
+
+<section class="features">
+
+### Features
+
+-   [`15a7438`](https://github.com/stdlib-js/stdlib/commit/15a74381527a3202ba42c9e2aaa6e49e509f3efb) - refactor and add protocol support to `stats/base/stdevtk` [(#7566)](https://github.com/stdlib-js/stdlib/pull/7566)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`15a7438`](https://github.com/stdlib-js/stdlib/commit/15a74381527a3202ba42c9e2aaa6e49e509f3efb) - **feat:** refactor and add protocol support to `stats/base/stdevtk` [(#7566)](https://github.com/stdlib-js/stdlib/pull/7566) _(by Gururaj Gurram)_
 -   [`f51215e`](https://github.com/stdlib-js/stdlib/commit/f51215e31f91fa5843f641deb8bf875ffa313596) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`c1fafe5`](https://github.com/stdlib-js/stdlib/commit/c1fafe52737f51ca58d6d86ec43fda081bf755e4) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`2515c03`](https://github.com/stdlib-js/stdlib/commit/2515c03c11d75901db325c3d2d417fba4073110a) - **refactor:** update paths _(by Aayush Khanna)_
